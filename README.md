@@ -3,4 +3,4 @@
 Some description!
 
 ## Subheader
-Addtional information.
+Addtional information...
